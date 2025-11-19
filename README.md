@@ -17,22 +17,13 @@ The dashboard answers key business questions such as the best selling BMW models
 - Data storytelling and visual communication  
 
 # 📊 Data Sourcing
-<p align="justify">
+<p align="justify"><b>📂 Dataset Source:</b> BMW Worldwide Sales Records 2010–2024 — 
+<a href="https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024" target="_blank">Kaggle Link</a>.  
+This dataset covers BMW sales across Asia, Europe, North America, South America, and the Middle East, including engine size, mileage, fuel type, transmission, price, and sales volume. It is ideal for analyzing model performance, pricing trends, and regional market demand.</p>
 
-<b>📂 Dataset Source</b><br>
-BMW Worldwide Sales Records 2010–2024  
-<br>
-🔗 <a href="https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024" target="_blank">View on Kaggle</a>
-
-<br><br>
-
-This dataset provides global BMW sales data across Asia, Europe, North America, South America, and the Middle East.  
-It includes key vehicle attributes such as engine size, fuel type, transmission, mileage, price, and sales volume—making it ideal for analyzing market trends, model performance, and regional demand patterns.
-
-</p>
 
 # 📦 Main Features / Columns in the Dataset
-1. **Model** — BMW model name (e.g., X5, 320i, M4).  
+1. **Model** — BMW model name.  
 2. **Year** — Vehicle production year.  
 3. **Region** — Global sales region.  
 4. **Color** — Vehicle color option.  
