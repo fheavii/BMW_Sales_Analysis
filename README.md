@@ -1,43 +1,59 @@
-# 🚗 BMW Global Sales Analysis Dashboard (2010–2024)
-
-# 📘 Project Description
+# 🚗 <b>BMW Global Sales Analysis Dashboard (2010–2024)</b>
+# 📘 <b>Project Description</b>
 <p align="justify">
-This project presents an interactive dashboard analyzing BMW vehicle sales performance across global regions from 2010 to 2024. The dataset includes detailed information about vehicle models, production years, engine sizes, mileage, fuel types, transmission types, pricing, and sales volume. Data cleaning and preparation were conducted using <b>Excel</b>, while the dashboard visualization and analysis were built using <b>Tableau</b>.  
-<br><br>
-The dashboard answers key business questions such as the best selling BMW models, regional sales differences, global revenue trends, customer preferences by fuel and transmission type, and relationships between vehicle features and pricing. This project demonstrates how raw automotive data can be converted into an insight driven dashboard that supports strategic decision making and market analysis.
+This project presents a fully interactive dashboard that analyzes <b>BMW’s global sales performance</b> from 2010 to 2024. The dataset includes details such as model type, production year, engine size, mileage, fuel type, transmission, price, and sales volume across multiple regions. Data cleaning and preparation were performed using <b>Excel</b>, while the analytical dashboard was built using <b>Tableau</b>. 
+</p>
+<br>
+<p align="justify">
+The dashboard answers key business questions including:
 </p>
 
-# 🧠 Skill Showcase
-- Data cleaning and preprocessing in Excel  
-- Creating calculated fields and KPI metrics  
-- Dashboard design and layout management   
-- Interactive Tableau visualizations    
-- Statistical insights such as averages and distributions  
-- Business intelligence reporting  
-- Data storytelling and visual communication  
+- Top selling BMW models worldwide</li>
+- Regional sales performance differences</li>
+- Global revenue and trend analysis</li>
+- Customer preferences by fuel and transmission type</li>
+- Pricing relationships with mileage and engine size</li>
 
-# 📊 Data Sourcing
-<p align="justify"><b>📂 Dataset Source:</b> BMW Worldwide Sales Records 2010–2024 — 
-<a href="https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024" target="_blank">Kaggle Link</a>.  
-This dataset covers BMW sales across Asia, Europe, North America, South America, and the Middle East, including engine size, mileage, fuel type, transmission, price, and sales volume. It is ideal for analyzing model performance, pricing trends, and regional market demand.</p>
-
-
-# 📦 Main Features / Columns in the Dataset
-1. **Model** — BMW model name.  
-2. **Year** — Vehicle production year.  
-3. **Region** — Global sales region.  
-4. **Color** — Vehicle color option.  
-5. **Fuel Type** — Petrol, Diesel, Electric, Hybrid, etc.  
-6. **Transmission** — Automatic, Manual, or other.  
-7. **Engine Size L** — Engine capacity in liters.  
-8. **Mileage KM** — Total distance driven (km).  
-9. **Price USD** — Vehicle price in USD.  
-10. **Sales Volume** — Total units sold.  
-11. **Sales Classification** — Categorized sales segment.
-
-# 💡 Closing
 <p align="justify">
-This project highlights the powerful combination of Excel and Tableau in analyzing global automotive sales data. It showcases my ability to clean data, build interactive dashboards, create meaningful KPIs, and present insights clearly for business decision-making.  
+This project demonstrates how raw automotive data can be transformed into an <b>insight driven dashboard</b> for strategic decision making.
+</p>
+
+# 🧠 <b>Skill Showcase</b>
+
+- 🔧 Data cleaning & preprocessing (Excel)  
+- 📐 Calculated fields & KPI creation  
+- 🎨 Dashboard design & layout strategy  
+- 📊 Interactive Tableau views  
+- 📈 Statistical insights & data exploration  
+- 🧩 Business intelligence reporting  
+- 🗺️ Insight storytelling  
+
+# 📊 <b>Data Sourcing</b>
+<p align="justify">
+<b>📂 Dataset Source:</b> BMW Worldwide Sales Records 2010–2024 —  
+<a href="https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024" target="_blank">Kaggle Link</a>  
 <br><br>
-Thank you for visiting this project! Feel free to ⭐ the repository, share your feedback, or collaborate with me.
+The dataset includes sales from Asia, Europe, North America, South America, and the Middle East complete with mileage, fuel type, price, and sales volume.  
+It is ideal for analyzing market behavior, identifying best selling models, and evaluating performance trends.
+</p>
+
+# 📦 <b>Main Features / Columns</b>
+1. <b>Model</b> — BMW model name  
+2. <b>Year</b> — Production year  
+3. <b>Region</b> — Sales region  
+4. <b>Color</b> — Vehicle color  
+5. <b>Fuel Type</b> — Petrol, Diesel, Hybrid, Electric  
+6. <b>Transmission</b> — Automatic, Manual, Others  
+7. <b>Engine Size L</b> — Engine capacity (liters)  
+8. <b>Mileage KM</b> — Total distance driven  
+9. <b>Price USD</b> — Market price  
+10. <b>Sales Volume</b> — Units sold  
+11. <b>Sales Classification</b> — Segmented sales group  
+
+# 💡 <b>Closing</b>
+<p align="justify">
+This project highlights how Excel and Tableau can be combined to create a <b>data driven analytical platform</b> for the global automotive industry.  
+It demonstrates my ability to clean data, design interactive dashboards, generate KPIs, and produce meaningful insights for business decision making.
+<br>
+If you found this project helpful, feel free to ⭐ the repository, share your feedback, or collaborate with me!
 </p>
